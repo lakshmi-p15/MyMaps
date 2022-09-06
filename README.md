@@ -20,7 +20,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img  title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src = https://user-images.githubusercontent.com/13498979/188540324-68015425-e56d-4e0e-b31b-c466012342d3.gif
+ title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
